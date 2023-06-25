@@ -7,3 +7,4 @@ Contains programs for:
 - Multi Layer Perceptron
 - Deep Learning Classification
 - Neural Network Visualizer
+- Image Stylization
